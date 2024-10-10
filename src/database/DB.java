@@ -5,8 +5,6 @@ import java.sql.SQLException;
 import java.sql.Savepoint;
 import java.sql.Statement;
 import java.sql.ResultSet;
-// import java.sql.Savepoint;
-// import oracle.jdbc.driver.OracleDriver;
 
 
 public class DB {
